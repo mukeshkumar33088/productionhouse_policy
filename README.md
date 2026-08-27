@@ -71,19 +71,20 @@ part of the game uses the network.
 
 ## The Executive Producer group
 
-If you buy Executive Producer, you may choose to join a private Telegram group.
-This is entirely optional — the purchase does not require it, and nothing in
-the game depends on it.
+If you buy Executive Producer, you may choose to join a private group chat run
+by the developer. This is entirely optional — the purchase does not require it,
+and nothing in the game depends on it.
 
 If you choose to join:
 
 - You send us your Google Play order ID so we can confirm the purchase and
   approve your request. We keep it only to check it against Play's order
   records and to know who is in the group.
-- Telegram is a third-party service with its own terms and privacy policy. What
-  Telegram collects and shows to other members is governed by
-  [Telegram's Privacy Policy](https://telegram.org/privacy), not by this one.
-  We do not control it.
+- The group is hosted on a third-party messaging platform, which has its own
+  terms and privacy policy. What that platform collects, and what it shows to
+  other members of the group, is governed by its policy and not by this one. We
+  do not control it. The app names the platform and links to it at the point
+  where you choose to join, so you can read its policy before you do.
 - You can leave the group at any time.
 
 We do not add you to any mailing list and we have no way to email you.
@@ -112,4 +113,4 @@ material changes unless the app itself gains a feature that needs them.
 Questions about this policy or about the app:
 
 - **Email:** mukeshkumar330888@gmail.com
-- **Telegram:** [@drd342](https://t.me/drd342)
+
