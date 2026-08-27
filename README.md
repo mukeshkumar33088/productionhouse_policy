@@ -111,5 +111,5 @@ material changes unless the app itself gains a feature that needs them.
 
 Questions about this policy or about the app:
 
-- **Email:** CONTACT_EMAIL_HERE
+- **Email:** mukeshkumar330888@gmail.com
 - **Telegram:** [@drd342](https://t.me/drd342)
